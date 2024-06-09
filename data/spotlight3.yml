@@ -1,0 +1,16 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "House & Apartment Cleaning review in Newmarket 12/23/2023"
+
+content: |
+
+  Requested a deep cleaning and organization of entire house, due to children and animals and preparation for holidays. Communication was excellent and the service was timely. Lots of good on-site collaboration. Nothing was damaged or misplaced. The work was inspected at each stage and reviewed to our liking. We will be having them back yearly or sooner.
+
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/spotlight03.jpg"
+  
+
+

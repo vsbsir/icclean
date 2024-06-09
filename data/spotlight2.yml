@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "House/Aparment cleaning Richmond Hill"
+content: |
+
+  IC clean have very professional staff and amazing cleaning service at affordable prices. I would definitely recommend them. Five star!!!
+
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/spotlight02.jpg"

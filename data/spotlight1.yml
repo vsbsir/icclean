@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Condo Cleaning 06/02/2024"
+
+content: |
+
+  Great communication & quickly accommodated. I needed someone asap for a condo move out and Garen worked with me to make it happen. Cleaning was perfect, my client called me right after to let me know he did a great job!! Wouldnt hesitate to use him again for all my future condo closings.
+
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/spotlight01.jpg"

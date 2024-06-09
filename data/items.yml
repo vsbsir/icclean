@@ -1,0 +1,31 @@
+title : "Services"
+content: |
+  At IC Clean we are a full service cleaning company. Timely, efficent and personable. Contact us, we guanrantee your satifaction.
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "House/Condo Cleaning"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-gem"
+
+  # feature item loop
+  - name : "Deep Cleaning"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-save"
+    
+  # feature item loop
+  - name : "Carpet Cleaning"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-chart-bar"
+    
+  # feature item loop
+  - name : "Move In/Out"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-wifi"
+    
+   # feature item loop
+  - name : "Air BnB/ Apartment"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-wifi"
+    
+    
