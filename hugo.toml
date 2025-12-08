@@ -1,4 +1,7 @@
 baseURL = 'http://sir.github.io/'
 languageCode = 'en-us'
-theme = "hugo-story"
 title = "ICClean"
+
+[module]
+  [[module.imports]]
+    path = "github.com/caressofsteel/hugo-story"

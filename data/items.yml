@@ -5,27 +5,15 @@ style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "House/Condo Cleaning"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Recurring cleaning for homes and condos Includes kitchen, bathroom, dusting, floors, garbage.  Optional add-ons: fridge, oven, interior windows, walls/baseboards Frequency: one-time, weekly, bi-weekly, monthly. Book a cleaning."
     style : "style2 major fa-gem"
 
   # feature item loop
   - name : "Deep Cleaning"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Recurring cleaning for homes and condos Includes kitchen, bathroom, dusting, floors, garbage. Optional extras: fridge, oven, interior windows, laundry. Ideal for seasonal refresh or before guests. Schedule a deep clean."
     style : "solid style2 major fa-save"
-    
-  # feature item loop
-  - name : "Carpet Cleaning"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-chart-bar"
-    
+   
   # feature item loop
   - name : "Move In/Out"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Full cleaning for moving in or out kitchen, bathroom, dusting, baseboards, vacuum/mop. Optional add-ons: inside cabinets, oven, fridge, interior windows. Ensures spotless home for inspection or new occupancy. Book move-in/out cleaning."
     style : "solid style2 major fa-wifi"
-    
-   # feature item loop
-  - name : "Air BnB/ Apartment"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-wifi"
-    
-    
