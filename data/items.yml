@@ -5,15 +5,20 @@ style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "House/Condo Cleaning"
-    content : "Recurring cleaning for homes and condos Includes kitchen, bathroom, dusting, floors, garbage.  Optional add-ons: fridge, oven, interior windows, walls/baseboards Frequency: one-time, weekly, bi-weekly, monthly. Book a cleaning."
+    content : "We know your home is your space — and we treat it that way. Our recurring cleaning service covers all the essentials so you can come home to fresh, every time."
     style : "style2 major fa-gem"
 
   # feature item loop
   - name : "Deep Cleaning"
-    content : "Recurring cleaning for homes and condos Includes kitchen, bathroom, dusting, floors, garbage. Optional extras: fridge, oven, interior windows, laundry. Ideal for seasonal refresh or before guests. Schedule a deep clean."
+    content : "Sometimes life gets busy and the dust wins. No judgment — that's exactly what our deep cleaning service is for. We go beyond the surface and get into every corner, crack, and cabinet (if you want us to)."
     style : "solid style2 major fa-save"
    
   # feature item loop
-  - name : "Move In/Out"
-    content : "Full cleaning for moving in or out kitchen, bathroom, dusting, baseboards, vacuum/mop. Optional add-ons: inside cabinets, oven, fridge, interior windows. Ensures spotless home for inspection or new occupancy. Book move-in/out cleaning."
+  - name : "Move In / Out Cleaning"
+    content : "Moving is already a lot. Between boxes, logistics, and a hundred things on your list, cleaning shouldn't be one of them. We'll take care of the space so you can focus on everything else."
     style : "solid style2 major fa-wifi"
+
+  # feature item loop
+  - name : "Post-Renovation Cleaning"
+    content : "Renovations are exciting — the dust, debris, and construction residue left behind? Not so much. Post-renovation cleaning is a whole different level of clean, and it's not something a regular mop and bucket can handle. We come in after the contractors leave and make sure your newly refreshed space is truly ready to enjoy."
+    style : "style2 major fa-gem"

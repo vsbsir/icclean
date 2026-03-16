@@ -2,10 +2,11 @@
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "ICClean"
 subtitle: |
-  Leave the Mess to Us.
+  No Diplomas. No Jargon. Just a Clean Home.
 content : |
   
-  Welcome to <strong>ICCLEAN</strong>, your trusted partner for top-notch house cleaning services. Our experienced team is dedicated to delivering high-quality cleaning solutions that keep your home spotless and organized. Whether you need a one-time deep clean or regular cleaning services, we've got you covered. Contact us today to schedule an appointment and experience the difference in our services.
+  We've never been trained by top cleaning professors and our mopping technique wasn't certified by the International Institute of Spotlessness. What we do have? Honest hands, sharp eyes, and a genuine obsession with leaving your home cleaner than we found it.
+
 
 button:
   label : "Get Started"
