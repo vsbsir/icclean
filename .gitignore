@@ -3,3 +3,5 @@
 .hugo_build.lock
 hugo_stats.json   
 /notes/
+_vendor/
+.hugo-ai-ctx

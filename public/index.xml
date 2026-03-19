@@ -1,11 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ICClean</title>
-    <link>http://192.168.1.140:1313/</link>
-    <description>Recent content on ICClean</description>
+    <title>IC Clean on ICClean</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in IC Clean on ICClean</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://192.168.1.140:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No Diplomas. No Jargon. Just a Clean Home.</title>
+      <link>http://localhost:1313/1-banner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/1-banner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/2-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2-services/</guid>
+      <description>&lt;p&gt;(body: services intro from notes/services.md)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/3-about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/3-about/</guid>
+      <description>&lt;p&gt;(body: services intro from notes/services.md)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why IC Clean</title>
+      <link>http://localhost:1313/4-quickfacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/4-quickfacts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Our Work</title>
+      <link>http://localhost:1313/5-gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/5-gallery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>http://localhost:1313/6-faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/6-faq/</guid>
+      <description>&lt;p&gt;(body: FAQ content from notes/FAQ.md + notes/cancel.md)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Let&#39;s Get Your Home Clean.</title>
+      <link>http://localhost:1313/7-contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/7-contact/</guid>
+      <description>&lt;p&gt;(body: contact intro and service areas from notes/contact.md)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Straightforward Pricing</title>
+      <link>http://localhost:1313/8-pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/8-pricing/</guid>
+      <description>&lt;p&gt;(body: pricing content from notes/pricing.md)&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

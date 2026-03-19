@@ -1,7 +1,18 @@
 baseURL = 'http://sir.github.io/'
-languageCode = 'en-us'
+languageCode = 'en-ca'
 title = "ICClean"
 
 [module]
   [[module.imports]]
     path = "github.com/caressofsteel/hugo-story"
+
+[params]
+  footerTagline = "No diplomas. No jargon. Just a clean home."
+  footerPhone = "(905) 392-6565"
+  footerEmail = "info@icclean.ca"
+[[params.socialIcons]]
+  icon = "fa-instagram"
+  url = "https://www.instagram.com/icclean.ca/"
+[[params.socialIcons]]
+  icon = "fa-star"
+  url = "https://www.homestars.com/service-pro/bio"
