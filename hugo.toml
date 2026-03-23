@@ -1,6 +1,7 @@
 baseURL = 'http://sir.github.io/'
 languageCode = 'en-ca'
 title = "ICClean"
+disableKinds = ["taxonomy", "term"]
 
 [module]
   [[module.imports]]
@@ -16,3 +17,4 @@ title = "ICClean"
 [[params.socialIcons]]
   icon = "fa-star"
   url = "https://www.homestars.com/service-pro/bio"
+

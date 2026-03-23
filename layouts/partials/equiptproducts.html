@@ -1,0 +1,18 @@
+<section class="wrapper style1 align-left">
+    <div class="inner">
+        {{ with .title }}<h2 class="align-center">{{ . }}</h2>{{ end }}
+        {{ with .intro }}<p class="align-center">{{ . | safeHTML }}</p>{{ end }}
+        <div class="index align-left">
+            {{ range .items }}
+            <section>
+                <header>
+                    <h4><strong>{{ .term }}</strong></h4>
+                </header>
+                <div class="content">
+                    <p>{{ .description | safeHTML }}</p>
+                </div>
+            </section>
+            {{ end }}
+        </div>
+    </div>
+</section>

@@ -1,24 +1,24 @@
-title : "Services"
+title: "Services"
 content: |
-  At IC Clean we are a full service cleaning company. Timely, efficent and personable. Contact us, we guanrantee your satifaction.
+  At IC Clean we are a full service cleaning company. Timely, efficient and personable. Contact us, we guarantee your satisfaction.
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
-  - name : "House/Condo Cleaning"
-    content : "We know your home is your space — and we treat it that way. Our recurring cleaning service covers all the essentials so you can come home to fresh, every time."
-    style : "style2 major fa-gem"
+  - name: "House/Condo Cleaning"
+    content: "Your regular clean, done right. We know your home is your space — and we treat it that way. Our recurring cleaning service covers all the essentials so you can come home to fresh, every time."
+    style: "style2 major fa-gem"
 
   # feature item loop
-  - name : "Deep Cleaning"
-    content : "Sometimes life gets busy and the dust wins. No judgment — that's exactly what our deep cleaning service is for. We go beyond the surface and get into every corner, crack, and cabinet (if you want us to)."
-    style : "solid style2 major fa-save"
-   
-  # feature item loop
-  - name : "Move In / Out Cleaning"
-    content : "Moving is already a lot. Between boxes, logistics, and a hundred things on your list, cleaning shouldn't be one of them. We'll take care of the space so you can focus on everything else."
-    style : "solid style2 major fa-wifi"
+  - name: "Deep Cleaning"
+    content: "For when 'regular clean' just won't cut it. Sometimes life gets busy and the dust wins. No judgment — that's exactly what our deep cleaning service is for. We go beyond the surface and get into every corner, crack, and cabinet (if you want us to)."
+    style: "solid style2 major fa-save"
 
   # feature item loop
-  - name : "Post-Renovation Cleaning"
-    content : "Renovations are exciting — the dust, debris, and construction residue left behind? Not so much. Post-renovation cleaning is a whole different level of clean, and it's not something a regular mop and bucket can handle. We come in after the contractors leave and make sure your newly refreshed space is truly ready to enjoy."
-    style : "style2 major fa-gem"
+  - name: "Move In / Out Cleaning"
+    content: "One less thing to stress about on moving day. Moving is already a lot. Between boxes, logistics, and a hundred things on your list, cleaning shouldn't be one of them. We'll take care of the space so you can focus on everything else."
+    style: "solid style2 major fa-wifi"
+
+  # feature item loop
+  - name: "Post-Renovation Cleaning"
+    content: "Your renovation is done. Now let's make it actually livable. Renovations are exciting — the dust, debris, and construction residue left behind? Not so much. Post-renovation cleaning is a whole different level of clean, and it's not something a regular mop and bucket can handle. We come in after the contractors leave and make sure your newly refreshed space is truly ready to enjoy."
+    style: "style2 major fa-gem"

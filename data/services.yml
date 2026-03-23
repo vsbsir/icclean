@@ -1,0 +1,24 @@
+title: "Services"
+content: |
+  At ICClean, we are dedicated to providing top-notch residential and commercial cleaning services. Our team is committed to delivering service excellence with timely, efficient, and personalized attention to your needs.
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name: "House/Condo Cleaning"
+    content: "Experience the convenience of our recurring residential cleaning services. We treat every home as if it were our own, ensuring a fresh and clean environment for you and your family."
+    style: "style2 major fa-gem"
+
+  # feature item loop
+  - name: "Deep Cleaning"
+    content: "When a thorough clean is required, turn to ICClean's deep cleaning services. We go beyond the surface to tackle every corner, crack, and cabinet, leaving no dust or debris behind."
+    style: "solid style2 major fa-save"
+
+  # feature item loop
+  - name: "Move In / Out Cleaning"
+    content: "Relieve the stress of moving day with ICClean's professional move-in/out cleaning services. We handle all aspects of your space, allowing you to focus on what truly matters."
+    style: "solid style2 major fa-wifi"
+
+  # feature item loop
+  - name: "Post-Renovation Cleaning"
+    content: "Ensure a seamless transition after renovation with ICClean's post-renovation cleaning services. We use advanced techniques and tools to remove dust, debris, and construction residue, leaving your space truly refreshed."
+    style: "style2 major fa-gem"

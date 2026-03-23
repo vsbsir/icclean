@@ -1,0 +1,9 @@
+<section class="wrapper style1 align-left">
+    <div class="inner">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .subtitle }}<h3>{{ . }}</h3>{{ end }}
+        {{ range .quotes }}
+        <blockquote>{{ .text | safeHTML }}</blockquote>
+        {{ end }}
+    </div>
+</section>
