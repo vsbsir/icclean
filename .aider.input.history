@@ -1,0 +1,27 @@
+
+# 2026-03-23 21:54:08.368653
++write the page body using the source file. Preserve all front matter exactly as-is. Write in professional and approachable, action-oriented voice. This is a theme-based site using Hugo extended 0.158.0, hugo-story theme. Content type is About. Custom front matter fields: title, description, draft. Prefer these terms: ICClean, residential cleaning, commercial cleaning, service excellence. Do not use: none currently. Clean markdown only. Flag missing content rather than inventing it.
+
+# 2026-03-23 21:54:08.368717
++write the page body using the source file. Preserve all front matter exactly as-is. Write in professional and approachable, action-oriented voice. This is a theme-based site using Hugo extended 0.158.0, hugo-story theme. Content type is About. Custom front matter fields: title, description, draft. Prefer these terms: ICClean, residential cleaning, commercial cleaning, service excellence. Do not use: none currently. Clean markdown only. Flag missing content rather than inventing it.
+
+# 2026-03-23 22:04:40.163130
++write the page body using the source file. Preserve all front matter exactly as-is. Write in professional and approachable, action-oriented voice. This is a theme-based site using Hugo extended 0.158.0, hugo-story theme. Content type is services. Custom front matter fields: serviceTitle, summary, icon. Prefer these terms: ICClean, residential cleaning, commercial cleaning, service excellence. Do not use: none currently. Clean markdown only. Flag missing content rather than inventing it.
+
+# 2026-03-23 22:04:40.163171
++write the page body using the source file. Preserve all front matter exactly as-is. Write in professional and approachable, action-oriented voice. This is a theme-based site using Hugo extended 0.158.0, hugo-story theme. Content type is services. Custom front matter fields: serviceTitle, summary, icon. Prefer these terms: ICClean, residential cleaning, commercial cleaning, service excellence. Do not use: none currently. Clean markdown only. Flag missing content rather than inventing it.
+
+# 2026-03-23 22:22:29.239607
++fix the title field in the front matter from 'Services' to 'About'. Do not change anything else.
+
+# 2026-03-23 22:22:29.239647
++fix the title field in the front matter from 'Services' to 'About'. Do not change anything else.
+
+# 2026-03-23 22:22:55.351677
++Yes
+
+# 2026-03-23 22:29:21.814832
++remove all body content, keep front matter only, front matter should be: title, description, draft
+
+# 2026-03-23 22:29:21.814925
++remove all body content, keep front matter only, front matter should be: title, description, draft
