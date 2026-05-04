@@ -28,7 +28,7 @@ disableKinds = ["taxonomy", "section"]
 [Params]
   tagline = "No Diplomas. No Jargon. Just a Clean Home."
   location = "Richmond Hill, Newmarket and surrounding GTA areas."
-  companyName = "IC Clean"
+  companyName = "ICCLEAN"
 
 [Params.asset]
 

@@ -1,8 +1,6 @@
 ####################### Items #########################
 style: "style1 medium onscroll-fade-in"
-title: "Why IC Clean"
-subtitle: "No gimmicks. No corporate fluff. Just a few things that actually matter."
-
+title: "Why ICCLEAN"
 items:
   - style: "fa-handshake solid"
     name: "Small & Personal"
@@ -22,4 +20,4 @@ items:
 
   - style: "fa-shield-alt solid"
     name: "Fully Insured"
-    content: "Peace of mind comes standard. IC Clean is fully insured, and a certificate is available upon request."
+    content: "Peace of mind comes standard. ICCLEAN is fully insured, and a certificate is available upon request."
