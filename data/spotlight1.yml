@@ -1,10 +1,12 @@
-####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
-id: "first"
-title : "Spotlight"
+####################### Spotlight 1 #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title: "House & Condo Cleaning"
+subtitle: ""
 content: |
-  This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight01.jpg"
+  Regular cleaning that actually stays on top of things. We handle the full sweep — kitchens, bathrooms, floors, surfaces — using HEPA-filter vacuums that capture dust and allergens instead of just pushing them around.
+  No rotating crew, no surprises. You get the same team each visit, and we do a walk-through at the end of every clean so nothing gets missed.
+  <strong>$35/hr per person.</strong> No minimums. No hidden fees.
+button:
+  label: "Get a Quote"
+  link: "#contact"
+image: "images/index/mother2kids.jpg"

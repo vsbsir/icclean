@@ -1,12 +1,11 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Hugo Story"
+title: "IC Clean"
 subtitle: |
-  Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
-content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  No Diplomas. No Jargon. Just a Clean Home.
+content: |
+  We've never been trained by top cleaning professors and our mopping technique wasn't certified by the International Institute of Spotlessness. What we do have? Honest hands, sharp eyes, and a genuine obsession with leaving your home cleaner than we found it.
 button:
-  label : "Get Started"
-  link : "#first"
-image : "images/banner.jpg"
-
+  label: "See Our Services"
+  link: "#first"
+image: "images/index/icclean.jpg"

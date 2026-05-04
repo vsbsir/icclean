@@ -1,10 +1,14 @@
-####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
-id: "first"
-title : "Spotlight"
+####################### Spotlight 3 #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title: "Move In / Move Out"
+subtitle: ""
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight03.jpg"
+  Moving is stressful enough. We take the cleaning off your list — whether you're leaving a place and want your deposit back, or moving into somewhere that needs a fresh start before you unpack.
+
+  We clean top to bottom, inside cabinets and appliances included. Walk-through at the end, every time.
+
+  <strong>$40/hr per person.</strong> No minimums. No hidden fees.
+button:
+  label: "Get a Quote"
+  link: "#contact"
+image: "images/index/happyFamily1.jpg"

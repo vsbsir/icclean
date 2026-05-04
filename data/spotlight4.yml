@@ -1,0 +1,14 @@
+####################### Spotlight 4 #########################
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title: "Post-Renovation Cleaning"
+subtitle: ""
+content: |
+  Renovation dust gets everywhere — and it keeps settling for days. We do a thorough clean after construction or reno work wraps up: fine dust on every surface, debris in corners, residue on fixtures, all of it.
+
+  HEPA-filter vacuums make a real difference here. They pick up the fine particulate that a regular vacuum recirculates back into the air.
+
+  <strong>$40/hr per person.</strong> No minimums. No hidden fees.
+button:
+  label: "Get a Quote"
+  link: "#contact"
+image: "images/gallery/fulls/icc1.jpg"
