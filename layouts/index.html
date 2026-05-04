@@ -1,13 +1,12 @@
 {{ define "main" }}
-
 	{{ partial "banner" hugo.Data.banner }}
 	{{ partial "spotlight" hugo.Data.spotlight1 }}
 	{{ partial "spotlight" hugo.Data.spotlight2 }}
 	{{ partial "spotlight" hugo.Data.spotlight3 }}
 	{{ partial "spotlight" hugo.Data.spotlight4 }}
+	{{ partial "items" hugo.Data.items }}
 	{{ partial "gallery" hugo.Data.gallery }}
-    {{ partial "about-faq.html" . }}
-    {{ partial "contact-form.html" . }}
+	{{ partial "about-faq.html" . }}
+	{{ partial "contact-form.html" . }}
 	{{ partial "footer" . }}
-
 {{ end }}
