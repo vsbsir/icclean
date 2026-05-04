@@ -21,11 +21,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Hugo
-        uses: hugo-community/setup-hugo@v2
-        with:
-          hugo-version: '0.161.1'
-          extended: true
+      - name: Install Hugo
+        run: |
+          wget -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.161.1/hugo_extended_0.161.1_linux-amd64.deb
+          sudo dpkg -i hugo.deb
 
       - name: Build
         run: hugo --minify
