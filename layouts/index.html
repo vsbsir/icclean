@@ -5,8 +5,9 @@
 	{{ partial "spotlight" hugo.Data.spotlight2 }}
 	{{ partial "spotlight" hugo.Data.spotlight3 }}
 	{{ partial "spotlight" hugo.Data.spotlight4 }}
-	{{ partial "items" hugo.Data.items }}
-	{{ partial "elements" . }}
+	{{ partial "gallery" hugo.Data.gallery }}
+    {{ partial "about-faq.html" . }}
+    {{ partial "contact-form.html" . }}
 	{{ partial "footer" . }}
 
 {{ end }}

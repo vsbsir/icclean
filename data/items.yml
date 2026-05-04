@@ -1,29 +1,25 @@
 ####################### Items #########################
 style: "style1 medium onscroll-fade-in"
 title: "Why IC Clean"
-content: ""
+subtitle: "No gimmicks. No corporate fluff. Just a few things that actually matter."
+
 items:
-  - name: "A Real Team, Not a Corporation"
-    content: |
-      We're a small, hands-on crew — the same people show up every time. No franchises, no strangers, no revolving door.
-    style: "solid style2 major fa-users"
-  - name: "HEPA-Filter Vacuums"
-    content: |
-      Our vacuums trap dust and allergens instead of recirculating them. Better for your home, better for anyone with allergies or asthma.
-    style: "solid style2 major fa-wind"
-  - name: "Walk-Through at Every Clean"
-    content: |
-      Before we leave, we walk through the space with you. If something isn't right, we fix it on the spot.
-    style: "solid style2 major fa-clipboard-check"
-  - name: "Transparent Pricing"
-    content: |
-      $35/hr per person for regular cleaning, $40/hr for deep, move, or reno cleans. No hidden fees, no minimum hours.
-    style: "solid style2 major fa-dollar-sign"
-  - name: "Fully Insured"
-    content: |
-      We carry full liability insurance and can provide a certificate on request. You're covered.
-    style: "solid style2 major fa-shield-alt"
-  - name: "Same Team Every Visit"
-    content: |
-      You'll recognize the people cleaning your home. Consistency matters — we think it makes for a better clean.
-    style: "solid style2 major fa-handshake"
+  - style: "fa-handshake solid"
+    name: "Small & Personal"
+    content: "You're not a ticket number. We're a small, personal team and every booking is handled with the same attention and care from start to finish."
+
+  - style: "fa-house-user solid"
+    name: "Your Home, Our Standard"
+    content: "We treat every home as if it were our own — with care, attention to detail, and full respect for your space and belongings."
+
+  - style: "fa-wind solid"
+    name: "HEPA-Filter Vacuums"
+    content: "We don't just move dust around. Our HEPA-filter vacuums capture fine particles and allergens, leaving your home genuinely clean and healthy."
+
+  - style: "fa-check-circle solid"
+    name: "Walk-Through Guarantee"
+    content: "Every clean ends with an inspection — together with you. If something isn't right, we make it right. Simple as that."
+
+  - style: "fa-shield-alt solid"
+    name: "Fully Insured"
+    content: "Peace of mind comes standard. IC Clean is fully insured, and a certificate is available upon request."

@@ -27,3 +27,6 @@ disableKinds = ["taxonomy", "section"]
   companyName = "IC Clean"
 
 [Params.asset]
+
+[Params.social]
+  email = "info@icclean.ca"
