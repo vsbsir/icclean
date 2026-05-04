@@ -1,38 +1,29 @@
 ## -----------------------------------------------
 ## Basic Configuration
 ## -----------------------------------------------
-
-theme = ""
+title = "IC Clean"
 
 ## -----------------------------------------------
 ## Publish
 ## -----------------------------------------------
-
-relativeURLs = "true"
-#canonifyURLs = "true"
-
+relativeURLs = true
 # Local
 baseURL = "/"
 publishDir = "public"
-
-# Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
-#publishDir = "//centos/sites/hugodev/hugostory/"
-
+# Production
+# baseURL = "https://vsbsir.github.io/icclean/"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
 ## -----------------------------------------------
-
 disableKinds = ["taxonomy", "section"]
-# googleAnalytics = "G-XXXXXXXXXX"
 
 ## -----------------------------------------------
 ## Site Parameters
 ## -----------------------------------------------
-
 [Params]
-
-[Params.social]
+  tagline = "No Diplomas. No Jargon. Just a Clean Home."
+  location = "Richmond Hill, Newmarket and surrounding GTA areas."
+  companyName = "IC Clean"
 
 [Params.asset]

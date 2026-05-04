@@ -1,0 +1,22 @@
+Site: IC Clean — professional cleaning service website
+Client: IC Clean, Greater Toronto Area
+Location: Richmond Hill, Newmarket and surrounding GTA areas
+Tone: plain-spoken, personal, honest. No jargon. No corporate language.
+Tagline: No Diplomas. No Jargon. Just a Clean Home.
+
+Services: House/Condo Cleaning, Deep Cleaning, Move In/Out, Post-Renovation
+Audience: homeowners, property managers, management companies, realtors
+
+Stack: Hugo extended, vanilla CSS, no JS frameworks
+Theme: hugo-story (HTML5 UP Story port) — one-page, data-driven via /data/ YAML files
+Hugo version: 0.161.1 extended
+
+Differentiators:
+- Small personal team, not a corporation
+- HEPA-filter vacuums
+- Walk-through inspection at end of every clean
+- Fully insured, certificate available on request
+- Pricing: $35/hr per person (initial), $40/hr deep/move/reno
+- No hidden fees, no minimum hours
+
+All version control uses jj, never git.
