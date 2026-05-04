@@ -9,7 +9,7 @@
       <p>Garen noticed that finding a cleaning service you could actually trust was harder than it should be. Too many companies hid behind fancy marketing, inflated promises, and impersonal service. What people really wanted was simple: a reliable team that shows up, does the job properly, and treats their home with respect. So that's exactly what IC Clean became.</p>
       <p>Today, IC Clean is still a small, personal team — and that's intentional. We're not trying to be the biggest cleaning company in the city. We're trying to be the best one for you. When we come into your home, we treat it like our own. That means paying attention to the details others might skip, using HEPA-filter vacuums that capture fine dust and allergens, and never calling a job done until you've seen it and are happy with it.</p>
       <p>No cleaning degrees. No corporate script. Just a small team that genuinely cares about the work they do — and the homes they do it in.</p>
-      <ul class="actions">
+      <ul class="actions special">
   <li><a href="#" class="button faq-toggle">Have a question? See our FAQ</a></li>
 </ul>
     </div>
@@ -101,106 +101,3 @@
   </div>
 </section>
 
-<style>
-.faq-section {
-  display: none;
-  margin-top: 1rem;
-}
-.faq-section.open {
-  display: block;
-}
-.faq-toggle {
-  display: inline-block;
-  margin-top: 0.5rem;
-}
-.accordion {
-  margin-top: 2rem;
-  width: 100%;
-}
-.accordion-item {
-  border-bottom: solid 1px rgba(0,0,0,0.2);
-}
-.accordion-item:first-child {
-  border-top: solid 1px rgba(0,0,0,0.2);
-}
-.accordion-trigger {
-  background: none;
-  border: none;
-  box-shadow: none;
-  width: 100%;
-  text-align: left;
-  padding: 1.25rem 2.5rem 1.25rem 0;
-  font-size: 1rem;
-  font-weight: 400;
-  cursor: pointer;
-  position: relative;
-  color: inherit;
-  letter-spacing: 0;
-  text-transform: none;
-  height: auto;
-  line-height: 1.5;
-  border-radius: 0;
-  transition: color 0.2s ease-in-out;
-}
-.accordion-trigger:hover {
-  background: none;
-  box-shadow: none;
-  color: #837164;
-}
-.accordion-trigger::after {
-  content: '+';
-  position: absolute;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 1.5rem;
-  font-weight: 300;
-  transition: transform 0.2s ease;
-}
-.accordion-trigger.open::after {
-  content: '−';
-}
-.accordion-content {
-  display: none;
-  padding: 0 0 1.5rem 0;
-}
-.accordion-content.open {
-  display: block;
-}
-.accordion-content p {
-  margin-bottom: 1rem;
-}
-.accordion-content p:last-child {
-  margin-bottom: 0;
-}
-</style>
-
-<script>
-// FAQ section toggle
-document.querySelector('.faq-toggle').addEventListener('click', function(e) {
-  e.preventDefault();
-  var faq = document.getElementById('faq-section');
-  faq.classList.toggle('open');
-  this.innerHTML = faq.classList.contains('open')
-    ? 'Close FAQ &uarr;'
-    : 'Have a question? See our FAQ &darr;';
-});
-
-// Individual accordion items
-document.querySelectorAll('.accordion-trigger').forEach(function(trigger) {
-  trigger.addEventListener('click', function() {
-    var content = this.nextElementSibling;
-    var isOpen = content.classList.contains('open');
-    document.querySelectorAll('.accordion-content').forEach(function(c) {
-      c.classList.remove('open');
-    });
-    document.querySelectorAll('.accordion-trigger').forEach(function(t) {
-      t.classList.remove('open');
-    });
-    if (!isOpen) {
-      content.classList.add('open');
-      this.classList.add('open');
-    }
-  });
-});
-</script>
