@@ -1,0 +1,42 @@
+/* Inline quote form */
+.quote-form-section {
+  background-color: #f9f9f9;
+  border-top: solid 1px rgba(0,0,0,0.1);
+  border-bottom: solid 1px rgba(0,0,0,0.1);
+  padding: 4rem 7rem;
+}
+.quote-form-inner {
+  max-width: 48rem;
+  margin: 0 auto;
+  position: relative;
+}
+.quote-form-inner h3 {
+  margin-bottom: 2rem;
+}
+.quote-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: none;
+  border: none;
+  box-shadow: none;
+  font-size: 1rem;
+  cursor: pointer;
+  color: inherit;
+  padding: 0;
+  height: auto;
+  line-height: 1;
+  letter-spacing: 0;
+  text-transform: none;
+  border-radius: 0;
+}
+.quote-close:hover {
+  background: none;
+  box-shadow: none;
+  color: #837164;
+}
+@media screen and (max-width: 736px) {
+  .quote-form-section {
+    padding: 2rem;
+  }
+}
