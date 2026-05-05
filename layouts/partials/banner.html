@@ -1,7 +1,12 @@
 <!-- Banner -->
 <section class="banner {{ .style }}">
     <div class="content">
-        {{ with .title }}<h1>{{ . }}</h1>{{ end }}
+        {{ with .title }}
+        <div class="logo-lockup">
+            <img src="{{ "images/logo-img.svg" | relURL }}" alt="ICCLEAN logo" class="logo-mark" />
+            <h1>{{ . }}</h1>
+        </div>
+        {{ end }}
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
         {{ with .button }}<ul class="actions stacked">
