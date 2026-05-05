@@ -1,0 +1,30 @@
+/* Brand blue headings — selective application */
+/* Section landmark headings */
+.wrapper h2 {
+  color: #01bae2;
+}
+
+/* Items section h3 — differentiator cards */
+.items h3 {
+  color: #01bae2;
+}
+
+/* About section heading */
+#about h2 {
+  color: #01bae2;
+}
+
+/* FAQ accordion category triggers */
+.accordion-trigger {
+  color: #01bae2;
+}
+
+/* Exclude spotlight headings — stay black */
+.spotlight h2 {
+  color: #000;
+}
+
+/* Exclude contact form heading — stays black */
+#contact h2 {
+  color: #000;
+}
