@@ -9,6 +9,7 @@ button.primary,
   background-color: #01bae2;
   box-shadow: none;
   color: #fff !important;
+  font-weight: 600;
 }
 
 input[type="submit"].primary:hover,
