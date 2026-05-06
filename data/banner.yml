@@ -1,5 +1,5 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+style: "style2 orient-center content-align-center image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
 title: "ICCLEAN"
 subtitle: |
   No Diplomas. No Jargon. Just a Clean Home.
