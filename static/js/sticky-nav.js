@@ -1,4 +1,4 @@
-(function() {
+document.addEventListener('DOMContentLoaded', function() {
   var nav = document.getElementById('sticky-nav');
   var hero = document.querySelector('.banner');
 
@@ -16,7 +16,7 @@
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
 
-  document.querySelectorAll('.sticky-nav-link').forEach(function(link) {
+  document.querySelectorAll('.sticky-nav-link, .banner-cta').forEach(function(link) {
     link.addEventListener('click', function(e) {
       e.preventDefault();
       var target = document.querySelector(this.getAttribute('href'));
@@ -28,4 +28,4 @@
     });
   });
 
-})();
+});
