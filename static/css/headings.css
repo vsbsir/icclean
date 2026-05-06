@@ -31,3 +31,7 @@
   color: #000 !important;
   font-weight: 300;
 }
+/* Lighten items section icons */
+.items .icon:before {
+  color: #01bae2;
+}

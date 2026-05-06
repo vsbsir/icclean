@@ -83,3 +83,8 @@ textarea:focus {
 .quote-close:hover {
   color: #01bae2;
 }
+/* Footer icons — brand blue */
+footer .icon.style2:before {
+  color: #01bae2;
+  box-shadow: inset 0 0 0 1px #01bae2;
+}

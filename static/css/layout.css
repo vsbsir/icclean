@@ -1,0 +1,10 @@
+/* Increase spotlight image height on desktop */
+.spotlight.style1 {
+  min-height: 600px;
+}
+
+@media screen and (max-width: 980px) {
+  .spotlight.style1 {
+    min-height: auto;
+  }
+}
